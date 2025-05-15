@@ -81,7 +81,7 @@ html {
     font-weight: 400;
     font-size: 40px;
     color: var(--dark-color);
-    justify-self: center;
+    justify-content: center;
 
     span:after {
         display: block;
